@@ -12,7 +12,7 @@ st.set_page_config(
 # -----------------------------
 # Load Data
 # -----------------------------
-df = pd.read_csv("/content/foresight_output.csv")
+df = pd.read_csv("foresight_output.csv")
 
 # -----------------------------
 # Header
