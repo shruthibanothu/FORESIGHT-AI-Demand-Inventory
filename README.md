@@ -161,9 +161,4 @@ It helps users:
 
 Built using machine learning, data analytics and Streamlit.
 
-```
 
-This version is much more **submission/project-worthy** without making claims about things you didn't actually implement.
-
-Also, your current README says only `app.py`, `foresight_output.csv`, and `requirements.txt` are in the project, while you now have the **notebook + four datasets in `data/`**, so updating that part is important.
-```
